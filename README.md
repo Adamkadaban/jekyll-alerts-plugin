@@ -1,6 +1,8 @@
 # jekyll-alerts-plugin
 Jekyll alerts made to look like GitHub markdown alerts 
 
+Blog [here](http://localhost:4000/2024/03/10/Jekyll-GitHub-Alerts-Liquid.html)
+
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
